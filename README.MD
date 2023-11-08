@@ -34,12 +34,9 @@ El administrador puede eliminar a un alumno de la base de datos, usando el endpo
 ## Correr la aplicación
 #
 <br>
-Para correr nuestra aplicación, el usuario tiene que asegurarse que tiene instalado Docker en su máquina. Luego ejecutar el comando<br>
-`docker-compose up -d`
-
-Luego, acceder a la URL:<br>
-`url de railway`
-<br>
+OPCION #1- Para correr nuestra aplicación, el usuario tiene que asegurarse que tiene instalado Docker en su máquina. Luego ejecutar el comando<br>
+`docker-compose up -d`<br>
+<br>OPCION #2- Para correr la aplicación localmente, solo debe posicionarse en el directorio <b>server</b>, correr <b>npm install</b> y correr <b>npm start</b>. Luego, posicionarse en el directorio <b>cliente</b> para correr los comandos <b>npm install</b> y<b>npm start</b>.
 
 ## Librerías utilizadas
 Nuestra aplicación utiliza las siguientes librerías:
